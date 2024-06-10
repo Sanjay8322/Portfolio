@@ -9,7 +9,7 @@ export const services = [
     },
     {
         icon: <LayoutGrid />,
-        service: 'Landing page development',
+        service: 'Landing page',
         description: 'I can develop a visually appealing landing page for your service or product.',
     },
     {
